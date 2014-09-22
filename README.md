@@ -2,6 +2,8 @@
 
 A Hubot script that count public gists
 
+![](http://img.f.hatena.ne.jp/images/fotolife/b/bouzuya/20140922/20140922231654.gif)
+
 ## Installation
 
     $ npm install git://github.com/bouzuya/hubot-gist-count.git
